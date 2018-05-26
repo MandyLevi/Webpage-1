@@ -12,7 +12,7 @@
 
 /*=====Styling the <body> ELEMENT=====*/
 body {
-      background-image: url("file:///home/mandy-levi/Documents/Webpage-1/IMAGES-Folder/real-life-dragon-balls.jpg");
+      background-image: url("../IMAGES-Folder/real-life-dragon-balls.jpg");
       background-position: center;
       background-size: cover;
      }
@@ -37,7 +37,7 @@ body {
 header {
         width:100%;
         height: 300px;
-        background-image: url("file:///home/mandy-levi/Documents/Webpage-1/IMAGES-Folder/Shenron.jpg");
+        background-image: url("../IMAGES-Folder/Shenron.jpg");
         background-position: center;
         background-size: contain;
        }
@@ -111,7 +111,7 @@ input[type=text] {
                   border-radius: 20px;
                   background-color: lightgreen;
                   opacity: 0.7;
-                  background-image: url("file:///home/mandy-levi/Documents/Webpage-1/IMAGES-Folder/icons8-search-50.png");
+                  background-image: url("../IMAGES-Folder/icons8-search-50.png");
                   background-repeat: no-repeat;
                   background-position: 10px 12px;
                   background-size: 20px;
@@ -191,7 +191,7 @@ section article p {
 
 
 div#goku {
-          background-image: url("file:///home/mandy-levi/Documents/Webpage-1/IMAGES-Folder/Goku-anger-mode.jpg");
+          background-image: url("../IMAGES-Folder/Goku-anger-mode.jpg");
           background-position: center;   
          }
 
@@ -199,7 +199,7 @@ div#goku {
 
 
 div#vegeta {
-            background-image: url("file:///home/mandy-levi/Documents/Webpage-1/IMAGES-Folder/vegeta.jpg");
+            background-image: url("../IMAGES-Folder/vegeta.jpg");
             background-position: center center;
             background-size: cover;        
            }
@@ -208,7 +208,7 @@ div#vegeta {
 
 
 div#gohan {
-           background-image: url("file:///home/mandy-levi/Documents/Webpage-1/IMAGES-Folder/Gohan.png");
+           background-image: url("../IMAGES-Folder/Gohan.png");
            background-position: center center;
            background-size: cover;          
           }
@@ -217,7 +217,7 @@ div#gohan {
 
 
 div#trunks {
-            background-image: url("file:///home/mandy-levi/Documents/Webpage-1/IMAGES-Folder/Trunks.png");
+            background-image: url("../IMAGES-Folder/Trunks.png");
             background-position: center center;
             background-size: cover;               
            }
